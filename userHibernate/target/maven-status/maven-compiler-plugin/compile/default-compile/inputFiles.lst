@@ -1,0 +1,7 @@
+/home/francisco/Documentos/Projetos/Alura/userHibernate/src/main/java/br/com/alura/UserHibernateApplication.java
+/home/francisco/Documentos/Projetos/Alura/userHibernate/src/main/java/br/com/alura/control/UserController.java
+/home/francisco/Documentos/Projetos/Alura/userHibernate/src/main/java/br/com/alura/dao/UserDao.java
+/home/francisco/Documentos/Projetos/Alura/userHibernate/src/main/java/br/com/alura/domain/User.java
+/home/francisco/Documentos/Projetos/Alura/userHibernate/src/main/java/br/com/alura/service/UserService.java
+/home/francisco/Documentos/Projetos/Alura/userHibernate/src/main/java/br/com/alura/util/JPAUtil.java
+/home/francisco/Documentos/Projetos/Alura/userHibernate/src/main/java/br/com/alura/TestDB.java
