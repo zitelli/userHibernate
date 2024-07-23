@@ -15,12 +15,10 @@ request:
 
 Structure of database:
 
-|:-----:|:------------:|:-----|:---:|:-------:|:--------------:|
 | Field | Type         | Null | Key | Default | Extra          |
 |:-----:|:------------:|:----:|:---:|:-------:|---------------:|
 | id    | bigint(20)   | NO   | PRI | NULL    | auto_increment |
 | email | varchar(255) | YES  |     | NULL    |                |
 | name  | varchar(255) | YES  |     | NULL    |                |
-|:-----:|:------------:|:----:|:---:|:-------:|:--------------:|
 
  
